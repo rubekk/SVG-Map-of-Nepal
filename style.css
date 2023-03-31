@@ -1,0 +1,14 @@
+.st1,
+.st2,
+.st3 {
+    stroke: #000;
+    stroke-miterlimit: 10;
+}
+polygon {
+    stroke-width: 1.75px;
+    fill: #fff;
+    transition: 0.25s;
+}
+polygon:hover {
+    fill: rgb(255, 10, 10) !important;
+}
